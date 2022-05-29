@@ -10,10 +10,10 @@ from math import ceil
 num_of_appliances = 9
 
 # Directory
-directory = 'C:/Users/Yuri/Desktop/SES_MILTON/Team4/'
+directory = 'C:/Users/Yuri/Desktop/'
 
 # Reading the directory
-house = pd.read_csv(directory + 'Team4.csv')
+house = pd.read_csv(directory + 'dataset_usage.csv')
 
 '''Preprocessing'''
 # Removing samples with issues column set to 1 (sum of the sub-metering (IAMs) is greater than the household aggregate)
