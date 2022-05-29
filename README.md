@@ -107,16 +107,16 @@ House 2
 9.Overhead Fan
 
 House 3
-0.Aggregate,
-1.Toaster, Dualit, DPP2
-2.Fridge-Freezer, Whirlpool, ARC7612
-3.Freezer, Frigidaire, Freezer Elite
-4.Tumble Dryer, Unknown, Unknown
-5.Dishwasher, Bosch, Exxcel Auto Option
-6.Washing Machine, Unknown, Unknown
-7.Television Site, Samsung, LE46A656A1FXXU
-8.Microwave, Panasoinc, NN-CT565MBPQ
-9.Kettle, Dualit, JKt3 (Kettle changed 16 Apr 2014 - Jan 19 2015 Vektra Vacuum Kettle)
+0. Aggregate,
+1. Toaster, Dualit, DPP2
+2. Fridge-Freezer, Whirlpool, ARC7612
+3. Freezer, Frigidaire, Freezer Elite
+4. Tumble Dryer, Unknown, Unknown
+5. Dishwasher, Bosch, Exxcel Auto Option
+6. Washing Machine, Unknown, Unknown
+7. Television Site, Samsung, LE46A656A1FXXU
+8. Microwave, Panasoinc, NN-CT565MBPQ
+9. Kettle, Dualit, JKt3 (Kettle changed 16 Apr 2014 - Jan 19 2015 Vektra Vacuum Kettle)
 
 House 4
 0.Aggregate,
