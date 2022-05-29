@@ -2,7 +2,7 @@
 The task of this assignment is to analyse the provided consumption data and extract information about the corresponding consumer behaviour.
 
 Indicatively one can:
-1. Analyse the data of total consumption on a weekly basis for the whole period they cover, and investigate the resulting changes:
+1. Analyse the total consumption data on a weekly basis for the whole period they cover, and investigate the resulting changes:
    - due to the difference between working/non-working days
    - due to differences in the time of year
    - different time zones within the day
