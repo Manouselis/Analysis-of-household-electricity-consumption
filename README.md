@@ -10,7 +10,7 @@ Indicatively one can:
    - the ratio of the consumption of these appliances to the total consumption of the installation.
    - the variations in the use of these appliances on working/non-working days and due to differences in the time of year.
   
-Obviously, any additional analysis you think would provide more information on the energy consumption in this particular facility will be appreciated.
+Additional analysis is considered a bonus.
 
 #### Notes
 1. The provided dataset requires some pre-processing in order to deal with poor data quality or missing samples. 
