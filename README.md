@@ -22,7 +22,7 @@ Obviously, any additional analysis you think would provide more information on t
 - There is also an additional issues column which is set to 1 if the sum of the sub-metering (IAMs) is greater than that of the household aggregate. In these cases the data should be discarded or noted that there is a discrepancy.
 
 INFORMATION
-Collection of this dataset was supported by the Engineering and Physical Sciences Research Council (EPSRC) via the project entitled Personalised Retrofit Decision Support Tools for UK Homes using Smart Home Technology (REFIT), which is a collaboration among the Universities of Strathclyde, Loughborough and East Anglia. The dataset includes data from 20 households from the Loughborough area over the period 2013 - 2014. Additional information about REFIT is available from www.refitsmarthomes.org.
+Collection of this dataset was supported by the Engineering and Physical Sciences Research Council (EPSRC) via the project entitled Personalised Retrofit Decision Support Tools for UK Homes using Smart Home Technology (REFIT), which is a collaboration among the Universities of Strathclyde, Loughborough and East Anglia. The dataset includes data from 20 households from the Loughborough area over the period 2013 – 2014.  Additional information about REFIT is available from www.refitsmarthomes.org.
 
 LICENCING
 This work is licensed under the Creative Commons Attribution 4.0 International Public License. See https://creativecommons.org/licenses/by/4.0/legalcode for further details.
@@ -83,241 +83,241 @@ APPLIANCE LIST
 The following list shows the appliances that were known to be monitored at the beginning of the study period. Although occupants were asked not to remove or switch appliances monitored by the IAMs, we cannot guarantee this to be the case. It should also be noted that Television and Computer Site may consist of multiple appliances, e.g. Television, SkyBox, DvD Player, Computer, Speakers, etc. Makes and Models specified here are gathered from pictures gathered by the installation team.
 
 House 1
-0.Aggregate
-1.Fridge, Hotpoint, RLA50P
-2.Freezer(1),Beko, CF393APW
-3.Freezer(2), Unknown, Unknown
-4.Washer Dryer, Creda, T522VW
-5.Washing Machine, Beko, WMC6140
-6.Dishwasher, Bosch, Unknown
-7.Computer, Lenovo, H520s
-8.Television Site, Toshiba, 32BL502b
-9.Electric Heater, GLEN, 2172
+- Aggregate
+- Fridge, Hotpoint, RLA50P
+- Freezer(1),Beko, CF393APW
+- Freezer(2), Unknown, Unknown
+- Washer Dryer, Creda, T522VW
+- Washing Machine, Beko, WMC6140
+- Dishwasher, Bosch, Unknown
+- Computer, Lenovo, H520s
+- Television Site, Toshiba, 32BL502b
+- Electric Heater, GLEN, 2172
 
 House 2
-0.Aggregate,
-1.Fridge-Freezer, Unknown, Unknown
-2.Washing Machine, LG, F1289TD
-3.Dishwasher, Unknown, Unknown
-4.Television Site,
-5.Microwave, Unknown, Unknown
-6.Toaster, Unknown, Unknown
-7.Hi-Fi, Unknown, Unknown
-8.Kettle, Unknown, Unknown
-9.Overhead Fan
+- Aggregate,
+- Fridge-Freezer, Unknown, Unknown
+- Washing Machine, LG, F1289TD
+- Dishwasher, Unknown, Unknown
+- Television Site,
+- Microwave, Unknown, Unknown
+- Toaster, Unknown, Unknown
+- Hi-Fi, Unknown, Unknown
+- Kettle, Unknown, Unknown
+- Overhead Fan
 
 House 3
-0. Aggregate,
-1. Toaster, Dualit, DPP2
-2. Fridge-Freezer, Whirlpool, ARC7612
-3. Freezer, Frigidaire, Freezer Elite
-4. Tumble Dryer, Unknown, Unknown
-5. Dishwasher, Bosch, Exxcel Auto Option
-6. Washing Machine, Unknown, Unknown
-7. Television Site, Samsung, LE46A656A1FXXU
-8. Microwave, Panasoinc, NN-CT565MBPQ
-9. Kettle, Dualit, JKt3 (Kettle changed 16 Apr 2014 - Jan 19 2015 Vektra Vacuum Kettle)
+-  Aggregate,
+-  Toaster, Dualit, DPP2
+-  Fridge-Freezer, Whirlpool, ARC7612
+-  Freezer, Frigidaire, Freezer Elite
+-  Tumble Dryer, Unknown, Unknown
+-  Dishwasher, Bosch, Exxcel Auto Option
+-  Washing Machine, Unknown, Unknown
+-  Television Site, Samsung, LE46A656A1FXXU
+-  Microwave, Panasoinc, NN-CT565MBPQ
+-  Kettle, Dualit, JKt3 (Kettle changed 16 Apr 2014 - Jan 19 2015 Vektra Vacuum Kettle)
 
 House 4
-0.Aggregate,
-1.Fridge, Neff, K1514X0GB/31
-2.Freezer, Ocean, UF 1025
-3.Fridge-Freezer, Ariston, DF230, (change Aug 17 2014)
-4.Washing Machine(1), Servis, 6065
-5.Washing Machine(2), Zanussi, Z917
-6.Desktop Computer, Unknown, Unknown
-7.Television Site, Sony, KDL-32W706B, (change at 19 Dec 2014)
-8.Microwave, Matsui, 170TC
-9.Kettle, Swan, Unknown
+- Aggregate,
+- Fridge, Neff, K1514X0GB/31
+- Freezer, Ocean, UF 1025
+- Fridge-Freezer, Ariston, DF230, (change Aug 17 2014)
+- Washing Machine(1), Servis, 6065
+- Washing Machine(2), Zanussi, Z917
+- Desktop Computer, Unknown, Unknown
+- Television Site, Sony, KDL-32W706B, (change at 19 Dec 2014)
+- Microwave, Matsui, 170TC
+- Kettle, Swan, Unknown
 
 House 5
-0.Aggregate,
-1.Fridge-Freezer, Fisher & Paykel, Unknown
-2.Tumble Dryer, Unknown, Unknown
-3.Washing Machine, AEG, L99695HWD
-4.Dishwasher, Unknown, Unknown
-5.Desktop Computer, Unknown, Unknown, (change 17 Mar 2015)
-6.Television Site, Unknown, Unknown
-7.Microwave, Unknown, Unknown
-8.Kettle, Logik, L17SKC14
-9.Toaster, Breville, TT33
+- Aggregate,
+- Fridge-Freezer, Fisher & Paykel, Unknown
+- Tumble Dryer, Unknown, Unknown
+- Washing Machine, AEG, L99695HWD
+- Dishwasher, Unknown, Unknown
+- Desktop Computer, Unknown, Unknown, (change 17 Mar 2015)
+- Television Site, Unknown, Unknown
+- Microwave, Unknown, Unknown
+- Kettle, Logik, L17SKC14
+- Toaster, Breville, TT33
 
 House 6
-0.Aggregate,
-1.Freezer, Whirlpool, CV128W
-2.Washing Machine, Bosch, Classixx 1200 Express
-3.Dishwasher, Neff, Unknown
-4.MJY Computer, Unknown, Unknown
-5.TV/Satellite, Samsung, UE55F6500SB
-6.Microwave, Neff, H5642N0GB/02
-7.Kettle, ASDA, GPK101W
-8.Toaster, Breville, PT15
-9.PGM Computer, Unknown, Unknown
+- Aggregate,
+- Freezer, Whirlpool, CV128W
+- Washing Machine, Bosch, Classixx 1200 Express
+- Dishwasher, Neff, Unknown
+- MJY Computer, Unknown, Unknown
+- TV/Satellite, Samsung, UE55F6500SB
+- Microwave, Neff, H5642N0GB/02
+- Kettle, ASDA, GPK101W
+- Toaster, Breville, PT15
+- PGM Computer, Unknown, Unknown
 
 House 7
-0.Aggregate,
-1.Fridge, Bosch, KSR30422GB
-2.Freezer(1), Whirlpool, AFG 392/H
-3.Freezer(2), Unknown, Unknown, (Change 23 Nov 2013)
-4.Tumble Dryer, White Knight, Unknown
-5.Washing Machine, Bosch, Unknown
-6.Dishwasher, Unknown, Unknown, (Change 20 May 2014)
-7.Television Site,
-8.Toaster, Unknown, Unknown
-9.Kettle, Sainsburys, 121988254
+- Aggregate,
+- Fridge, Bosch, KSR30422GB
+- Freezer(1), Whirlpool, AFG 392/H
+- Freezer(2), Unknown, Unknown, (Change 23 Nov 2013)
+- Tumble Dryer, White Knight, Unknown
+- Washing Machine, Bosch, Unknown
+- Dishwasher, Unknown, Unknown, (Change 20 May 2014)
+- Television Site,
+- Toaster, Unknown, Unknown
+- Kettle, Sainsburys, 121988254
 
 House 8
-0.Aggregate,
-1.Fridge, Liebherr, KP2620
-2.Freezer, Unknown, Unknown
-3.Washer Dryer, Zanussi, Unknown
-4.Washing Machine,
-5.Toaster, Bosch, TAT6101GB/02
-6.Computer, Unknown, Unknown
-7.Television Site, Sony, KDL-32V2000
-8.Microwave, Panasoinc, NN-CT565MBPQ
-9.Kettle, Morphy Richards, 43615
+- Aggregate,
+- Fridge, Liebherr, KP2620
+- Freezer, Unknown, Unknown
+- Washer Dryer, Zanussi, Unknown
+- Washing Machine,
+- Toaster, Bosch, TAT6101GB/02
+- Computer, Unknown, Unknown
+- Television Site, Sony, KDL-32V2000
+- Microwave, Panasoinc, NN-CT565MBPQ
+- Kettle, Morphy Richards, 43615
 
 House 9
-0.Aggregate,
-1.Fridge-Freezer, Bosch, KGH34X05GB/05
-2.Washer Dryer, Hotpoint, TCM580
-3.Washing Machine, Bosch, Classixx 6 1200 Express
-4.Dishwasher, Bosch, Classixx
-5.Television Site, LG, 32LH3000
-6.Microwave, Argos, MM717CFA
-7.Kettle, Russel Hobbs, Unknown
-8.Hi-Fi, Unknown, Unknown
-9.Electric Heater
+- Aggregate,
+- Fridge-Freezer, Bosch, KGH34X05GB/05
+- Washer Dryer, Hotpoint, TCM580
+- Washing Machine, Bosch, Classixx 6 1200 Express
+- Dishwasher, Bosch, Classixx
+- Television Site, LG, 32LH3000
+- Microwave, Argos, MM717CFA
+- Kettle, Russel Hobbs, Unknown
+- Hi-Fi, Unknown, Unknown
+- Electric Heater
 
 House 10
-0.Aggregate,
-1.Magimix(Blender), Unknown, Unknown, (Change 17 Jun 2014)
-2.Toaster, Unknown, Unknown, (Change 17 Oct 2014)
-3.Chest Freezer, Unknown, Unknown
-4.Fridge-Freezer, Unknown, Unknown
-5.Washing Machine, Beko, WI1382
-6.Dishwasher, AEG, Unknown
-7.Television Site, Samsung, UE40ES5500K
-8.Microwave, Unknown, Unknown
-9.K Mix, Unknown, Unknown
+- Aggregate,
+- Magimix(Blender), Unknown, Unknown, (Change 17 Jun 2014)
+- Toaster, Unknown, Unknown, (Change 17 Oct 2014)
+- Chest Freezer, Unknown, Unknown
+- Fridge-Freezer, Unknown, Unknown
+- Washing Machine, Beko, WI1382
+- Dishwasher, AEG, Unknown
+- Television Site, Samsung, UE40ES5500K
+- Microwave, Unknown, Unknown
+- K Mix, Unknown, Unknown
 
 House 11
-0.Aggregate,
-1.Fridge, Gorenje, HPI 1566, (Starts 7 Oct 2014)
-2.Fridge-Freezer, Unknown, Unknown
-3.Washing Machine, Unknown, Unknown
-4.Dishwasher, Unknown, Unknown, (Change 4 Oct 2014)
-5.Computer Site, Unknown, Unknown
-6.Microwave, Unknown, Unknown
-7.Kettle, Unknown, Unknown
-8.Router, Unknown, Unknown
-9.Hi-Fi, Unknown, Unknown
+- Aggregate,
+- Fridge, Gorenje, HPI 1566, (Starts 7 Oct 2014)
+- Fridge-Freezer, Unknown, Unknown
+- Washing Machine, Unknown, Unknown
+- Dishwasher, Unknown, Unknown, (Change 4 Oct 2014)
+- Computer Site, Unknown, Unknown
+- Microwave, Unknown, Unknown
+- Kettle, Unknown, Unknown
+- Router, Unknown, Unknown
+- Hi-Fi, Unknown, Unknown
 
 House 12
-0.Aggregate,
-1.Fridge-Freezer, Gorenje, HZS 3266
-2.???, Unknown, Unknown
-3.???, Unknown, Unknown
-4.Computer Site, Unknown, Unknown
-5.Microwave, Unknown, Unknown
-6.Kettle, Unknown, Unknown
-7.Toaster, Unknown, Unknown, (Nothing Recorded)
-8.Television, Unknown, Unknown, (Nothing Recorded)
-9.???, Unknown, Unknown, (Nothing Recorded)
+- Aggregate,
+- Fridge-Freezer, Gorenje, HZS 3266
+- ???, Unknown, Unknown
+- ???, Unknown, Unknown
+- Computer Site, Unknown, Unknown
+- Microwave, Unknown, Unknown
+- Kettle, Unknown, Unknown
+- Toaster, Unknown, Unknown, (Nothing Recorded)
+- Television, Unknown, Unknown, (Nothing Recorded)
+- ???, Unknown, Unknown, (Nothing Recorded)
 
 House 13
-0.Aggregate,
-1.Television Site, Samsung, UE55H6400AK
-2.Freezer, Unknown, Unknown, (Stops 18 Aug 2014)
-3.Washing Machine, Unknown, Unknown, (Changes 25 Mar 2015)
-4.Dishwasher, Unknown, Unknown
-5.???, Unknown, Unknown
-6.Network Site, Unknown, Unknown
-7.Microwave, Unknown, Unknown
-8.Microwave, Unknown, Unknown
-9.Kettle, Unknown, Unknown
+- Aggregate,
+- Television Site, Samsung, UE55H6400AK
+- Freezer, Unknown, Unknown, (Stops 18 Aug 2014)
+- Washing Machine, Unknown, Unknown, (Changes 25 Mar 2015)
+- Dishwasher, Unknown, Unknown
+- ???, Unknown, Unknown
+- Network Site, Unknown, Unknown
+- Microwave, Unknown, Unknown
+- Microwave, Unknown, Unknown
+- Kettle, Unknown, Unknown
 
 House 15
-0.Aggregate,
-1.Fridge-Freezer, Unknown, Unknown
-2.Tumble Dryer, Unknown, Unknown
-3.Washing Machine, Beko, WMB91242LB
-4.Dishwasher, Unknown, Unknown
-5.Computer Site, Unknown, Unknown
-6.Television Site, LG, 22LS4D
-7.Microwave, Unknown, Unknown
-8.Hi-Fi, Unknown, Unknown
-9.Toaster, Unknown, Unknown
+- Aggregate,
+- Fridge-Freezer, Unknown, Unknown
+- Tumble Dryer, Unknown, Unknown
+- Washing Machine, Beko, WMB91242LB
+- Dishwasher, Unknown, Unknown
+- Computer Site, Unknown, Unknown
+- Television Site, LG, 22LS4D
+- Microwave, Unknown, Unknown
+- Hi-Fi, Unknown, Unknown
+- Toaster, Unknown, Unknown
 
 House 16
-0.Aggregate,
-1.Fridge-Freezer(1), Bosch, KGN30VW20G/01, (Change 7 Apr 2015)
-2.Fridge-Freezer(2), Unknown, Unknown
-3.Electric Heater(1), Unknown, Unknown
-4.Electric Heater(2), Unknown, Unknown
-5.Washing Machine, Bosch, WAB24262GB/01
-6.Dishwasher, Unknown, Unknown
-7.Computer Site, Unknown, Unknown
-8.Television Site, Samsung, UE55HU8500T
-9.Dehumidifier, Unknown, Unknown
+- Aggregate,
+- Fridge-Freezer(1), Bosch, KGN30VW20G/01, (Change 7 Apr 2015)
+- Fridge-Freezer(2), Unknown, Unknown
+- Electric Heater(1), Unknown, Unknown
+- Electric Heater(2), Unknown, Unknown
+- Washing Machine, Bosch, WAB24262GB/01
+- Dishwasher, Unknown, Unknown
+- Computer Site, Unknown, Unknown
+- Television Site, Samsung, UE55HU8500T
+- Dehumidifier, Unknown, Unknown
 
 House 17
-0.Aggregate,
-1.Freezer, Unknown, Unknown
-2.Fridge-Freezer, Whirlpool, ARC 2990
-3.Tumble Dryer, Unknown, Unknown
-4.Washing Machine, Bosch, Exxcel 8 Vario Perfect
-5.Computer Site, Unknown, Unknown
-6.Television Site, Unknown, Unknown
-7.Microwave, Matsui, M195T
-8.Kettle, Russel Hobbs, 17869
-9.TV Site(Bedroom), Unknown, Unknown
+- Aggregate,
+- Freezer, Unknown, Unknown
+- Fridge-Freezer, Whirlpool, ARC 2990
+- Tumble Dryer, Unknown, Unknown
+- Washing Machine, Bosch, Exxcel 8 Vario Perfect
+- Computer Site, Unknown, Unknown
+- Television Site, Unknown, Unknown
+- Microwave, Matsui, M195T
+- Kettle, Russel Hobbs, 17869
+- TV Site(Bedroom), Unknown, Unknown
 
 House 18
-0.Aggregate,
-1.Fridge(garage), LEC, R.403W
-2.Freezer(garage), Unknown, Unknown
-3.Fridge-Freezer, Unknown, Unknown
-4.Washer Dryer(garage), Unknown, Unknown
-5.Washing Machine, Unknown, Unknown
-6.Dishwasher, Unknown, Unknown
-7.Desktop Computer, Unknown, Unknown
-8.Television Site, Unknown, Unknown
-9.Microwave, Unknown, Unknown
+- Aggregate,
+- Fridge(garage), LEC, R.403W
+- Freezer(garage), Unknown, Unknown
+- Fridge-Freezer, Unknown, Unknown
+- Washer Dryer(garage), Unknown, Unknown
+- Washing Machine, Unknown, Unknown
+- Dishwasher, Unknown, Unknown
+- Desktop Computer, Unknown, Unknown
+- Television Site, Unknown, Unknown
+- Microwave, Unknown, Unknown
 
 House 19
-0.Aggregate,
-1.Fridge Freezer, Bosch, KGS-3272-GB/01
-2.Washing Machine, Bosch, WAE24060GB/03
-3.Television Site, Sony, KDL32EX703
-4.Microwave, Kenwood, K20MSS10
-5.Kettle, Breville, VKJ336
-6.Toaster, Bellini, BET240
-7.Bread-maker, Unknown, Unknown
-8.Games Console, Unknown, Unknown
-9.Hi-Fi, Unknown, Unknown
+- Aggregate,
+- Fridge Freezer, Bosch, KGS-3272-GB/01
+- Washing Machine, Bosch, WAE24060GB/03
+- Television Site, Sony, KDL32EX703
+- Microwave, Kenwood, K20MSS10
+- Kettle, Breville, VKJ336
+- Toaster, Bellini, BET240
+- Bread-maker, Unknown, Unknown
+- Games Console, Unknown, Unknown
+- Hi-Fi, Unknown, Unknown
 
 House 20
-0.Aggregate,
-1.Fridge, Unknown, Unknown
-2.Freezer, Unknown, Unknown
-3.Tumble Dryer, Unknown, Unknown
-4.Washing Machine, Unknown, Unknown
-5.Dishwasher, Unknown, Unknown
-6.Computer Site, Unknown, Unknown
-7.Television Site, Unknown, Unknown
-8.Microwave, Unknown, Unknown
-9.Kettle, Unknown, Unknown
+- Aggregate,
+- Fridge, Unknown, Unknown
+- Freezer, Unknown, Unknown
+- Tumble Dryer, Unknown, Unknown
+- Washing Machine, Unknown, Unknown
+- Dishwasher, Unknown, Unknown
+- Computer Site, Unknown, Unknown
+- Television Site, Unknown, Unknown
+- Microwave, Unknown, Unknown
+- Kettle, Unknown, Unknown
 
 House 21
-0.Aggregate,
-1.Fridge-Freezer, Samsung, SR-L3216B
-2.Tumble Dryer, Unknown, Unknown
-3.Washing Machine, Beko, WMB81241LW
-4.Dishwasher, AEG, FAVORIT
-5.Food Mixer, Unknown, Unknown
-6.Television, Unknown, Unknown
-7.Kettle, Unknown, Unknown, (Changes 16 Aug 2014)
-8.Vivarium, Unknown, Unknown
-9.Pond Pump, Unknown, Unknown
+- Aggregate,
+- Fridge-Freezer, Samsung, SR-L3216B
+- Tumble Dryer, Unknown, Unknown
+- Washing Machine, Beko, WMB81241LW
+- Dishwasher, AEG, FAVORIT
+- Food Mixer, Unknown, Unknown
+- Television, Unknown, Unknown
+- Kettle, Unknown, Unknown, (Changes 16 Aug 2014)
+- Vivarium, Unknown, Unknown
+- Pond Pump, Unknown, Unknown
