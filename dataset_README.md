@@ -1,5 +1,5 @@
-#### Details about the provided dataset
-###### Electrical Load Measurements
+## Details about the provided dataset
+#### Electrical Load Measurements
 - Spikes of greater than 4000 Watts have been removed from the Individual Appliance Monitor (IAM) values and replaced with zeros. 
 - There is also an additional issues column which is set to 1 if the sum of the sub-metering (IAMs) is greater than that of the household aggregate. In these cases the data should be discarded or noted that there is a discrepancy.
 
